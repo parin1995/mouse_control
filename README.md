@@ -5,3 +5,4 @@ A colour Tracker will be required to wrap it around your finger. It can be of an
 The code takes the levels of light into consideration and so is independant of it.
 
 It works on OpenCV, so to make it work make sure you have OpenCV installed.
+Also to control the mouse Python Xlib library is used. Please do install that too.
